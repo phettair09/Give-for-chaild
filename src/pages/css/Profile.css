@@ -1,0 +1,32 @@
+.all-font {
+  font-family: "mitr";
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.list-group-item,
+.nav-tabs .nav-item {
+  text-align: center;
+  width: 33%;
+}
+.name-profile {
+  font-size: 20px;
+  font-weight: 400;
+}
+.profile_info {
+  text-align: left;
+}
+.history {
+  font-size: 18px;
+  color: gray;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .profile_info {
+    text-align: center;
+  }
+}

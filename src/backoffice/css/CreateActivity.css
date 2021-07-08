@@ -1,0 +1,9 @@
+.all-font {
+  font-family: "mitr";
+}
+label {
+  font-weight: 400;
+}
+.form-control {
+  font-weight: 100;
+}
